@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://capsule-render.vercel.app/api?
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F4BBBB&height=200&section=header&text=Hello%20Everyone&fontSize=70)
+
 ![dbsrudrla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbsrudrla&theme=buefy&show_icons=true)
