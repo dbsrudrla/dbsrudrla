@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat&logo=React&instagramColor=white"/>
-![header](https://capsule-render.vercel.app/api?type=wave&color=lightpink&height=300&section=header&text=capsule%20render&fontSize=90)
+https://capsule-render.vercel.app/api?
+![dbsrudrla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbsrudrla&theme=buefy&show_icons=true)
