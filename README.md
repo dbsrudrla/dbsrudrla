@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat&logo=React&instagramColor=white"/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=lightpink&height=300&section=header&text=capsule%20render&fontSize=90)
