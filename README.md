@@ -37,10 +37,3 @@ Here are some ideas to get you started:
    <a href="mailto:rladbsrud011120@naver.com"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=flat&logo=Naver&logoColor=white&link=rladbsrud011120@naver.com"/></a>
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  
-  ![dbsrudrla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbsrudrla&theme=buefy&show_icons=true)
-  
-</div>
-
