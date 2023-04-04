@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F4BBBB&height=150&section=header&text=Hello%20and . . .Welcome!!!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F4BBBB&height=150&section=header&fontSize=70)
 
 <h3 align="center">:tulip::sunflower::hibiscus::bouquet::four_leaf_clover:</h3>
 
