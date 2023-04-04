@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F4BBBB&height=150&section=header&text=Welcome%20to%20Yun's%20GitHub&fontSize=50)
 
-<h3 align="center">:tulip::sunflower::hibiscus::bouquet::four_leaf_clover:</h3>
-
 <h3 align="center">:books: Tech Stack :books:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp 
@@ -36,4 +34,6 @@ Here are some ideas to get you started:
 <p align="center">
    <a href="mailto:rladbsrud011120@naver.com"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=flat&logo=Naver&logoColor=white&link=rladbsrud011120@naver.com"/></a>
 </p>
+
+<h3 align="center">:tulip::sunflower::hibiscus::bouquet::four_leaf_clover:</h3>
 
